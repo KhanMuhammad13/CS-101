@@ -1,2 +1,2 @@
-# CS-101
-E library
+# CS-112
+Calendar Application
